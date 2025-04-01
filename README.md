@@ -1,2 +1,13 @@
-# frontend-case-study
-This React web app manages user profiles with search, filter, and an admin panel for CRUD operations. It integrates Google Maps/Mapbox for location visualization and ensures responsive design, error handling, and smooth UX. Built with React, React Router, and CSS, it offers an intuitive way to explore and manage profiles efficiently.
+# Frontend Case Study
+This is a simple React project for managing user profiles and displaying profile details.
+
+## Features
+- Profile listing
+- Profile details page
+- Admin panel
+
+## Installation
+Run `npm install` to install dependencies.
+
+## Start
+Run `npm start` to launch the project.
